@@ -39,7 +39,6 @@ npm install
 Create a .env file and set your environment variables:
 
 bash
-Copy code
 MONGODB_URL=mongodb://localhost:27017/bagify
 PORT=3000
 JWT_SECRET=your_jwt_secret_key
